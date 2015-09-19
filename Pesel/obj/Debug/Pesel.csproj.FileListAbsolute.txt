@@ -1,0 +1,5 @@
+C:\Users\sokald\Documents\Visual Studio 2012\Projects\Pesel\Pesel\bin\Debug\Pesel.exe
+C:\Users\sokald\Documents\Visual Studio 2012\Projects\Pesel\Pesel\bin\Debug\Pesel.pdb
+C:\Users\sokald\Documents\Visual Studio 2012\Projects\Pesel\Pesel\obj\Debug\Pesel.exe
+C:\Users\sokald\Documents\Visual Studio 2012\Projects\Pesel\Pesel\obj\Debug\Pesel.pdb
+C:\Users\sokald\Documents\Visual Studio 2012\Projects\Pesel\Pesel\obj\Debug\Pesel.csprojResolveAssemblyReference.cache
