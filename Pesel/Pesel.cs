@@ -47,7 +47,7 @@ namespace Pesel
             if(pesel.Length==11){    
                 for(int i= 0; i<pesel.Length-1; i++)
                 {
-                    sumControl += tab[i] * int.Parse(pesel[i].ToString()); ;
+                    sumControl += tab[i] * int.Parse(pesel[i].ToString());
                 }
             }
 
@@ -56,7 +56,9 @@ namespace Pesel
             {
                 numControl = 10 - numControl;
             }
-            if (numControl == pesel[10])
+            Console.WriteLine("suma kontrolna="+numControl);
+            Console.WriteLine("ostatni cyfra peselu=" + pesel[10]);
+            if (numControl == int.Parse(pesel[10].ToString()))
             {
                 Console.WriteLine("poprawny pesel------------------------------------------");
                 result = true;

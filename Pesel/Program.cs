@@ -9,7 +9,7 @@ namespace Pesel
     {
         static void Main(string[] args)
         {
-            Pesel p = new Pesel("44051401358");
+            Pesel p = new Pesel("44051401359");
             Console.WriteLine("start");
             p.check(p.Pesel1);
             
